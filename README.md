@@ -23,6 +23,13 @@ javac Student.java StudentManager.java
 
 Run:
 java StudentManager
+## Sample Menu Output
+
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
 
 ## Author
 Divyasree
